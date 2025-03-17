@@ -20,6 +20,4 @@ Welcome to the Air Quality Monitoring Dashboard! This project provides real-time
 - **React Toastify:** For user-friendly notifications.
 
 ## 📸 Screenshots
-
-![Dashboard Screenshot]
-<img src="https://ibb.co/xtwGY44V][img]https://i.ibb.co/ksz0JddY/air-Quality-MOnitoring.png">
+<img src="https://i.ibb.co/ksz0JddY/air-Quality-MOnitoring.png" alt="air-Quality-MOnitoring" border="0" align="center" width="600px">
