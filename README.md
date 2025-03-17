@@ -21,4 +21,5 @@ Welcome to the Air Quality Monitoring Dashboard! This project provides real-time
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot]([url=https://ibb.co/xtwGY44V][img]https://i.ibb.co/ksz0JddY/air-Quality-MOnitoring.png[/img][/url])
+![Dashboard Screenshot]
+url=https://ibb.co/xtwGY44V][img]https://i.ibb.co/ksz0JddY/air-Quality-MOnitoring.png
